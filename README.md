@@ -1,4 +1,4 @@
-CraftMilkkit 1.4.5
+CraftMilkkit 1.4.7
 ===========
 
 A Bukkit (Minecraft Server API) implementation
