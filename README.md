@@ -1,10 +1,16 @@
-# Milkkit 1.4.5 
-A Minecraft Server Software that fixes performance and vulnerabilites on 1.4.5 and It is completely LEGAL.
+CraftMilkkit 1.4.5
+===========
 
-Bugs/Suggestions: [Discord](discord.gg/kt3Ap6gSU3)
+A Bukkit (Minecraft Server API) implementation
 
-## Compilation
-We use maven 3 to handle our dependencies
+Bugs/Suggestions: [Discord](https://discord.gg/kt3Ap6gSU3)  
 
-- Install []()
-- Check out this repo and: `mvn clean package`
+Compilation
+-----------
+
+We use maven to handle our dependencies.
+
+* Install [Maven 3](http://maven.apache.org/download.html)
+* Check out and install [Bukkit](http://github.com/Bukkit/Bukkit)
+    * *Note*: this is not needed as the repository we use has Bukkit too, but you might have a newer one (with your own changes :D)
+* Check out this repo and: `mvn clean package`
