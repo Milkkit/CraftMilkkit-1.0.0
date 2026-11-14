@@ -3,7 +3,7 @@ CraftMilkkit 1.4.7
 
 A Bukkit (Minecraft Server API) implementation.
 
-CraftMilkkit is an Spigot fork that patches vulnerabilites and gives performance patches
+CraftMilkkit is an server software that patches vulnerabilites and gives performance patches
 
 Project is currently not ready for compiling
 
