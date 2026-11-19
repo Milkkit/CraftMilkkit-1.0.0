@@ -9,6 +9,12 @@ Project is currently not ready for compiling
 
 Bugs/Suggestions: [Discord](https://discord.gg/kt3Ap6gSU3)  
 
+## Licensing
+CraftBukkit and Bukkit are licensed under GNU General Public License v3.0<br>
+Any future commits to this repository will remain under the same GNU General Public License v3.0<br>
+Libraries in the compiled .jar files distrusted may contain their own licenses.<br>
+This project contains decompiled code that is copyrighted by Mojang AB typically under the `net.minecraft.server` package.<br>
+
 Regarding the DMCA of CraftBukkit in 2014
 ------------
 The contributor Wolverness who first contributed on CraftBukkit in February 2012 issued a DMCA against CraftBukkit and other major forks of CraftBukkit. This project is based on the following commits:
